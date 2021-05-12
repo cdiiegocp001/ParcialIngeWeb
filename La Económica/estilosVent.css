@@ -1,0 +1,80 @@
+﻿* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.Ventas {
+    margin-left: 20px;
+    margin-top: 20px;
+}
+
+div#Area1 {
+    margin-left: 43px;
+    width: 549px;
+    height: 335px;
+    text-align: left;
+    border: 1px solid #C0C0C0;
+}
+div#BotonCompra {
+    width: 150px;
+    height: 34px;
+    margin-left: 25px;
+}
+
+.btncompra {
+    height: 29px;
+    width: 160px;
+ 
+}
+
+div#Area2 {
+    float: right;
+    margin-top: -337px;
+    margin-left: 675px;
+    margin-right: 90px;
+    width: 560px;
+    height: 335px;
+    border: 1px solid #C0C0C0;
+}
+
+.header{
+    float: right;
+    margin-right:30px;
+
+}
+.tabla{
+    text-align:center;
+
+}
+.cuadro1 {
+    margin-left:5px;
+    width: 97px;
+    height: 34px;
+}
+
+.cuadro2 {
+    width: 151px;
+    height: 34px;
+    margin-right: 5px;
+}
+.cuadro3 {
+    width: 125px;
+    height: 34px;
+}
+
+.botonventa {
+    margin-left: 10px;
+    width: 130px;
+    margin-left: 25px;
+    height:34px;
+}
+
+.botoncancelar {
+    width: 100px;
+    height: 34px;
+}
+.totalp {
+    float:right;
+    margin-right:15px;
+
+}
